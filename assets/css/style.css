@@ -484,8 +484,8 @@ section {
 @media screen and (max-width: 980px) {
   header {
     padding-bottom: 0;
-    justify-content: center;
     position: relative;
+    justify-content: center;
   }
 
   header h1 {
